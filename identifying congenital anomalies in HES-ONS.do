@@ -1,8 +1,10 @@
 ********************************************************************************
 *
 *	Title: Phenotyping congenital anomalies in administrative hospital records
-*	Authors: Ania Zylbersztejn & Maximiliane Verfuerden, Ruth Gilbert, Pia Hardelid, Linda Wijlaars
-*   DOI: TBA
+*	Authors: Ania Zylbersztejn & Maximiliane Verfuerden,  Pia Hardelid, 
+*                           Ruth Gilbert,, Linda Wijlaars
+*       Created in Stata v15.0
+*       DOI: TBA
 *	Created: 29.10.2019
 *
 ********************************************************************************
