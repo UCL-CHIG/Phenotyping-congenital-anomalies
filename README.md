@@ -1,5 +1,7 @@
 # Phenotyping-congenital-anomalies
-This repository covers ICD-10 codes from 3 code lists which can be used to indicate children with congenital anomalies in hospital records in England and Scotland:
+This repository covers ICD-10 codes from 3 code lists which can be used to indicate children with congenital anomalies in hospital records in England and Scotland and basic Stata code which we used to indicate children with congenital anomalies in hospital records.
+
+The code lists are:
 
 ## 1) the EUROCAT list 
 This code list was developed by the EUROCAT network to classify unstandardized text in congenital anomaly registries for surveillance in Europe;
@@ -23,6 +25,9 @@ Details can be found here:
 - additional resources: https://feudtnerlab.research.chop.edu/ccc_version_2.php (accessed 15 November 2019)
 
 ## How do they compare?
-We compared prevalence, and risk of prognostic outcomes (hospital readmission and death) according to each code list in England and Scotland. Details can be found here: TBA
+We compared prevalence, and risk of prognostic outcomes (hospital readmission and death) according to each code list in England and Scotland. Feudtner code list identified the least prevalent but most severe congenital anomalies. The EUROCAT code list identified the largest and least severely affected group.
 
-This repository covers basic Stata code which we used to indicate children with congenital anomalies in hospital records and ICD-10 codes included in each code list.
+Details can be found here: Zylbersztejn A*, Verfürden M*, Hardelid P, Gilbert R, Wijlaars L. Phenotyping congenital anomalies in administrative hospital records. Paediatr Perinat Epidemiol. 2019; 34: 21– 28. https://doi.org/10.1111/ppe.12627
+
+
+
